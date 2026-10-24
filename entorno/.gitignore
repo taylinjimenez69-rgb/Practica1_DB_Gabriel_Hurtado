@@ -1,0 +1,16 @@
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar carpetas de configuración de editores
+.vscode/
+.idea/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar compilados (si usas Java o Python)
+*.class
+__pycache__/
+*.pyc
